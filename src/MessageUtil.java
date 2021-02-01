@@ -13,5 +13,10 @@ public class MessageUtil {
 	   public String printMessage(){
 //	      System.out.println(message);
 	      return message;
-	   }   
+	   } 
+	   
+	   //test function
+	   public void printMEssage() {
+		   System.out.println("Whoop! Its pushed");
+	   }
 } 
